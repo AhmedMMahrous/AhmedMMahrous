@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AhmedMMahrous
-- 👀 I’m interested in data science field
-- 🌱 I’m currently learning Deep Learning
+
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
