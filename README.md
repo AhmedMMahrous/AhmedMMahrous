@@ -67,11 +67,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/ahmed-mohamed-mahrous-19304517b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <p align="left">
+<a href = "https://www.linkedin.com/in/ahmed-mohamed-mahrous-19304517b/"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+  <p>
 <a href="https://twitter.com/a7medmmahrous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7medmmahrous" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmedmohamedmahrous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedmohamedmahrous" height="30" width="40" /></a>
-<a href="https://fb.com/Ahmed M Mahrous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ahmed M Mahrous" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedfmohamed121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ahmedfmohamed121" height="30" width="40" /></a>
 </p>
 
