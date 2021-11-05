@@ -7,19 +7,19 @@
 <h3 align="center">I'm a passionate Data Scientist from Egypt.</h3>
 
 
-## 🙋‍♂️ About Me
+##  About Me
 
-- 👀 I’m interested in **data science** field.
+-  I’m interested in **data science** field.
 
-- 🌱 I’m currently learning **Data Structures , Algorithms and Deep Learning.**
+-  I’m currently learning **Data Structures , Algorithms and Deep Learning.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+-  I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.kaggle.com/ahmedmohamedmahrous)**
+-  All of my projects are available at **[My Portfolio](https://www.kaggle.com/ahmedmohamedmahrous)**
 
-- 📫 How to reach me **ahmedfmohamed1234567@gmail.com**
+-  How to reach me **ahmedfmohamed1234567@gmail.com**
 
-- ⚡ Fun fact **I play Football and go to the GYM.**
+-  Fun fact **I play Football and go to the GYM.**
 
 ## 🚀 Languages and Tools:
 
