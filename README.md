@@ -1,6 +1,7 @@
 
 
-<h1 align="center">Hi 👋,  I'm Ahmed Mohamed</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+  I'm Ahmed Mohamed</h1>
 <h3 align="center"> Jr Data Scientist & 2x Kaggle Expert </h3>
 <img align="right" height="250" width="400" src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47ngltwv27n3hcg1j7vgi7rppep5uiubufla1vvnbn&amp;rid=giphy.gif&amp;ct=g" />
 
