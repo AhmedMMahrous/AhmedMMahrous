@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋,  I'm Ahmed Mohamed</h1>
 <h3 align="center"> Jr Data Scientist & 2x Kaggle & interested to grow up in Data science and AI  </h3>
-<img align="right" height="250" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" height="250" width="400" src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47ngltwv27n3hcg1j7vgi7rppep5uiubufla1vvnbn&amp;rid=giphy.gif&amp;ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedMMahrous&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedMMahrous" /> </p>
 
@@ -59,3 +59,8 @@
     <img src="https://komarev.com/ghpvc/?username=AhmedMMahrous">
 </a>
 <a href="https://github.com/AhmedMMahrous?tab=followers"><img src="https://img.shields.io/github/followers/AhmedMMahrous?label=Followers&style=social" alt="GitHub Badge"></a>
+<div align="center">
+  
+<b>Thank's for visiting my Github Profile ❤️</b>
+</div>
+
