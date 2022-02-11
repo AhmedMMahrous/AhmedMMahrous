@@ -10,13 +10,15 @@
 <a href="https://kaggle.com/ahmedmohamedmahrous" target="blank"><img align="center" src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white' alt="ahmedmohamedmahrous" /></a>
 <a href="https://www.hackerrank.com/ahmedfmohamed121" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@ahmedfmohamed121" /></a>
 <a href="https://www.datacamp.com/profile/ahmedfmohamed1234567" target="blank"><img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=white" alt="@ahmedfmohamed1234567" /></a>
+<a href="https://accounts.google.com/SignOutOptions?hl=en-GB&continue=https://mail.google.com&service=mail" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ahmedfmohamed1234567@gmail.com" /></a>
 </p>
+
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vbic6p062m2eduqwskkfzj8niosfbmhhrzl2fo1v&amp;rid=giphy.gif&amp;ct=g" align="right" width="25%" />
 
 <br>
 
 I'm a junior data scientist who has gained a strong foundation in artificial intelligence, software engineering, math, and others. with a computer science background, who takes part in building machine learning models that aim to increase business revenue and enhance their business models, having skills in machine learning and deep learning, and looking forward to acquiring deep knowledge by participating in one of the decent companies.
-
+<br>
 
 
 
