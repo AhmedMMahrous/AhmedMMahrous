@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<h1 align="center">Hi ,
   I'm Ahmed Mohamed</h1>
 <h3 align="center"> Jr Data Scientist & 2x Kaggle Expert </h3>
 <br>
