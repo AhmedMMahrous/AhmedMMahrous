@@ -28,12 +28,14 @@ I'm a junior data scientist who has gained a strong foundation in artificial int
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMMahrous&theme=tokyonight" />
 </p>
 
+
 <p align="center">
 <img width="48%" src ="https://activity-graph.herokuapp.com/graph?username=AhmedMMahrous&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" >
     
 </p>
-
-  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMMahrous&show_icons=true&locale=en&theme=radical" alt="Ahmed M Mahrous" />
+</p>
 <p align="center">Thank's for visiting my Github Profile ❤️</p>
 
 
