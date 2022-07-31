@@ -21,21 +21,29 @@ I'm a junior data scientist who has gained a strong foundation in artificial int
 <br>
 
 
+---
 
-## My Github Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedMMahrous&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMMahrous&theme=tokyonight" />
-</p>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/AhmedMMahrous/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMMahrous&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="AhmedMMahrous :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/AhmedMMahrous/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AhmedMMahrous&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMMahrous&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+       <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AhmedMMahrous's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=AhmedMMahrous&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+</details>
+     <br>
+  </div>    
+</details>
 
-
-<p align="center">
-<img width="48%" src ="https://activity-graph.herokuapp.com/graph?username=AhmedMMahrous&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" >
-    
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMMahrous&show_icons=true&locale=en&theme=radical" alt="Ahmed M Mahrous" />
-</p>
 <p align="center">Thank's for visiting my Github Profile ❤️</p>
 
 
