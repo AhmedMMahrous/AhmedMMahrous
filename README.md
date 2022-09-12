@@ -23,6 +23,8 @@ I'm a junior data scientist who has gained a strong foundation in artificial int
 
 ---
 
+[My Resume](https://drive.google.com/file/d/1xAu_7USe5FplbJB1xBytjCRpN8uJ93BH/view?usp=sharing)📄
+
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
