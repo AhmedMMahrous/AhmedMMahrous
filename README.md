@@ -14,7 +14,6 @@
 </p>
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vbic6p062m2eduqwskkfzj8niosfbmhhrzl2fo1v&amp;rid=giphy.gif&amp;ct=g" align="right" width="25%" />
-
 <br>
 
 I'm a junior data scientist who has gained a strong foundation in artificial intelligence, software engineering, math, and others. with a computer science background, who takes part in building machine learning models that aim to increase business revenue and enhance their business models, having skills in machine learning and deep learning, and looking forward to acquiring deep knowledge by participating in one of the decent companies.
@@ -22,6 +21,8 @@ I'm a junior data scientist who has gained a strong foundation in artificial int
 
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedMMahrous&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedMMahrous" /> </p>
 
 [My Resume](https://drive.google.com/file/d/1xAu_7USe5FplbJB1xBytjCRpN8uJ93BH/view?usp=sharing)📄
 
