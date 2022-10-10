@@ -13,7 +13,7 @@
 <a href="https://accounts.google.com/SignOutOptions?hl=en-GB&continue=https://mail.google.com&service=mail" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ahmedfmohamed1234567@gmail.com" /></a>
 </p>
 
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vbic6p062m2eduqwskkfzj8niosfbmhhrzl2fo1v&amp;rid=giphy.gif&amp;ct=g" align="right" width="25%" />
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vbic6p062m2eduqwskkfzj8niosfbmhhrzl2fo1v&amp;rid=giphy.gif&amp;ct=g" align="right" width="22%" />
 <br>
 
 I'm a junior data scientist who has gained a strong foundation in artificial intelligence, software engineering, math, and others. with a computer science background, who takes part in building machine learning models that aim to increase business revenue and enhance their business models, having skills in machine learning and deep learning, and looking forward to acquiring deep knowledge by participating in one of the decent companies.
@@ -25,6 +25,16 @@ I'm a junior data scientist who has gained a strong foundation in artificial int
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedMMahrous&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedMMahrous" /> </p>
 
 [My Resume](https://drive.google.com/file/d/1xAu_7USe5FplbJB1xBytjCRpN8uJ93BH/view?usp=sharing)📄
+
+<h2 align="center">🥇Kaggle Statistics🥇</h2>
+<div align="center">
+<a href="https://www.kaggle.com/ahmedmohamedmahrous"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/ahmedmohamedmahrous" /></a>
+</div>
+<p align="center">
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedmohamedmahrous/dataset" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedmohamedmahrous/notebook" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedmohamedmahrous/discussion" />
+</p>
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -46,6 +56,18 @@ I'm a junior data scientist who has gained a strong foundation in artificial int
      <br>
   </div>    
 </details>
+
+<p style="display: inline-block;" align="center">
+<kbd>
+<kbd>Reach Out Me</kbd>
+<br>
+<br>
+<a href="ahmedfmohamed1234567@gmail.com"><img height="26px" width="28px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a> 
+<a href="https://www.linkedin.com/in/ahmed-mohamed-mahrous-19304517b/"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://github.com/AhmedMMahrous/"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>  <a href="https://kaggle.com/ahmedmohamedmahrous"><img width="72px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" /></a> 
+
+</kbd>
+</p>
 
 <p align="center">Thank's for visiting my Github Profile ❤️</p>
 
