@@ -4,6 +4,11 @@
   I'm Ahmed Mohamed</h1>
 <h3 align="center"> Jr Data Scientist & 2x Kaggle Expert </h3>
 <br>
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/nNOAPjUdo4mpZFkDf8/giphy.gif"  width="100px"/>
+<div id="header" align="center">  
+   <img src="https://komarev.com/ghpvc/?username=AhmedMMahrous&style=flat-square&color=blue" alt=""/>
+
 <p align="center">
 <a href = "https://www.linkedin.com/in/ahmed-mohamed-mahrous-19304517b/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://twitter.com/a7medmmahrous" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="a7medmmahrous" /></a>
@@ -22,7 +27,6 @@ I'm a junior data scientist who has gained a strong foundation in artificial int
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedMMahrous&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedMMahrous" /> </p>
 
 [My Resume](https://drive.google.com/file/d/1xAu_7USe5FplbJB1xBytjCRpN8uJ93BH/view?usp=sharing)📄
 
