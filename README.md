@@ -1,8 +1,8 @@
 
-
-<h1 align="center">Hi ,
-  I'm Ahmed Mohamed</h1>
-<h3 align="center"> Jr Data Scientist & Kaggle Master </h3>
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ahmed+Mohamed;Data+Scientist+and+Kaggle+Master;%40ahmedmohamedmahrous">
+</p>
+<hr>
 <br>
 
 <p align="center">
@@ -57,10 +57,13 @@ I'm a junior data scientist who has gained a strong foundation in artificial int
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMMahrous&theme=gruvbox&hide_border=true" />
           </a>
        </p>
-       <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AhmedMMahrous's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=AhmedMMahrous&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-
+   
   </div>    
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmedmmahrous&bg_color=0a0a0a&color=ffffff&line=8184df&point=1c1717&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+<hr>
+<br>
 <br>
 <p align="center">Thank's for visiting my Github Profile ❤️</p>
 
