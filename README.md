@@ -11,7 +11,8 @@
 <a href="https://kaggle.com/ahmedmohamedmahrous" target="blank"><img align="center" src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white' alt="ahmedmohamedmahrous" /></a>
 <a href="https://www.hackerrank.com/ahmedfmohamed121" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@ahmedfmohamed121" /></a>
 <a href="https://www.datacamp.com/profile/ahmedfmohamed1234567" target="blank"><img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=white" alt="@ahmedfmohamed1234567" /></a>
-<a href="https://accounts.google.com/SignOutOptions?hl=en-GB&continue=https://mail.google.com&service=mail" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ahmedfmohamed1234567@gmail.com" /></a>
+<a href="https://leetcode.com/AhmedMMahrous/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="AhmedMMahrous" /></a>
+<a href="https://www.goodreads.com/user/show/156859967-ahmed-m-mahrous" target="blank"><img align="center" src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Ahmed M Mahrous" /></a>
 </p>
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vbic6p062m2eduqwskkfzj8niosfbmhhrzl2fo1v&amp;rid=giphy.gif&amp;ct=g" align="right" width="22%" />
