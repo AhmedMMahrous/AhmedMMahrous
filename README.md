@@ -33,16 +33,8 @@ I'm a junior data scientist who has gained a strong foundation in artificial int
 <kbd >My Mail => ahmedfmohamed1234567@gmail.com </kbd>
 
 
-<h2 align="center">Kaggle Statistics</h2>
-<div align="center">
-<a href="https://www.kaggle.com/ahmedmohamedmahrous"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/ahmedmohamedmahrous" /></a>
-</div>
-<p align="center">
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedmohamedmahrous/competition" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedmohamedmahrous/dataset" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedmohamedmahrous/notebook" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedmohamedmahrous/discussion" />
-</p>
+
+
 
 
   <div>
