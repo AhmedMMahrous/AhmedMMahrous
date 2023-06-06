@@ -53,8 +53,9 @@ I'm a junior data scientist who has gained a strong foundation in artificial int
    
   </div>    
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmedmmahrous&bg_color=0a0a0a&color=ffffff&line=8184df&point=1c1717&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
+[![Ahmed M Mahrous's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmmahrous&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr>
 <br>
 <br>
