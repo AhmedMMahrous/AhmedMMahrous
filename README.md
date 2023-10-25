@@ -32,6 +32,8 @@ I'm a junior data scientist who has gained a strong foundation in artificial int
   
 <kbd >My Mail => ahmedfmohamed1234567@gmail.com </kbd>
 
+[![Whats Badge](https://img.shields.io/badge/-+201223958997-57ab51?style=flat&labelColor=57ab51&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+201223958997)
+
 
 
 
